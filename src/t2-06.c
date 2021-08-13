@@ -1,7 +1,11 @@
 // Have a program request the use to enter and uppercase letter.
 // Use nested loops to produce a pyramid pattern like the figure below,
 // where the pattern should extend to the character entered. For example,
-// an input value of E is entered to produce the pattern in the figure below.
+// an input value of B is entered to produce the pattern in the figure below.
+//   A
+//  ABA
+// ABCBA
+
 // Hint: Multiple loop is needed for the exercise.
 
 #include <stdio.h>
