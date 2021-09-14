@@ -55,4 +55,6 @@ int main()
             }
         }
     }
+
+    // Write logic for find LCM & HCM
 }
